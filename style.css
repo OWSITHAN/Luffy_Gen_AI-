@@ -454,9 +454,9 @@ body {
 }
 
 @media screen and (max-width: 576px) {
+      margin-right: 10px;
     .description-container {
         padding: 24px 24px;
-        margin-right: 10px;
     }
 
     .chat-bot-container {
