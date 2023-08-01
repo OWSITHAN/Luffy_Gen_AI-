@@ -62,7 +62,7 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    color: rgb(125, 125, 125);
+    color: rgb(120, 120, 120);
     font-size: 50px;
     font-family: Outfit, sans-serif;
     font-style: normal;
@@ -456,6 +456,7 @@ body {
 @media screen and (max-width: 576px) {
     .description-container {
         padding: 24px 24px;
+        margin: 15px;
     }
 
     .chat-bot-container {
